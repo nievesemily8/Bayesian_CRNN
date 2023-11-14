@@ -188,7 +188,7 @@ end
 
 
 
-p_store= load("STAT3_EGFR_toEGFR2_add_v1")["p_store"]
+p_store= load("STAT3_nonoise")["p_store"]
 
 nsample = 1000
 
